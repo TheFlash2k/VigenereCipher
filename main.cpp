@@ -166,11 +166,8 @@ void menu(int& uChoice) {
 	std::cout << "Vignere Cipher - Encryption Decryption.\n";
 	std::cout << "In C++\n";
 	std::cout << "========================================\n";
-	std::cout << "Group Members:\n";
-	std::cout << "190764 - Shameer Kashif\n";
-	std::cout << "190770 - Mahnam Nasir\n";
-	std::cout << "190787 - Amal Abrar\n";
-	std::cout << "190792 - Ali Taqi Wajid\n";
+	std::cout << "@TheFlash2k | Discord : TheFlash2k#0407\n";
+	std::cout << "https://github.com/theflash2k\n";
 	std::cout << "========================================\n";
 	std::cout << "== MENU ==\n";
 	std::cout << "1. Encrypt.\n";
