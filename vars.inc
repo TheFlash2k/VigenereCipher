@@ -4,11 +4,11 @@ PROJ_LANG BYTE "In x86 Assembly using Irvine Library", 0
 Seperator BYTE "========================================", 0
 
 ; Variables for group details printing:
-GP_0 BYTE "Group Members: ", 0
-GP_1 BYTE "190764 - Shameer Kashif", 0
-GP_2 BYTE "190770 - Mahnam Nasir", 0
-GP_3 BYTE "190787 - Amal Abrar", 0
-GP_4 BYTE "190792 - Ali Taqi Wajid", 0
+GP_0 BYTE "PROJECT BY: ", 0
+GP_1 BYTE "===================================", 0
+GP_2 BYTE "@TheFlash2k | Discord : TheFlash2k#0407", 0
+GP_3 BYTE "https://github.com/theflash2k", 0
+GP_4 BYTE "===================================", 0
 
 ; Messages that have to be printed:
 menu_0	   BYTE "== MENU ==", 0
